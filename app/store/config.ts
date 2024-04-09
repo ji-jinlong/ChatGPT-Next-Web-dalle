@@ -65,7 +65,7 @@ export const DEFAULT_CONFIG = {
     dall2Mode: "Default" as (typeof dall2modes)[number],
     n: 1,
     quality: "standard",
-    size: "256x256",
+    size: "1024x1024",
     style: "vivid",
   },
 };
